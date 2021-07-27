@@ -9,7 +9,7 @@
 
 
 ## Description
-实验通过基于 MapReduce 方法实现对新闻文本数据的布尔查询系统。新闻数据集来自 [搜狗全网新闻数据 SogouCA 2012版本(1.43GB)](http://www.sogou.com/labs/resource/ca.php)来自若干新闻站点2012年6月—7月期间国内，国际，体育，社会，娱乐等18个频道的新闻数据，提供URL和正文信息。数据格式如下：
+实验通过基于 MapReduce 方法实现对新闻文本数据的布尔查询系统。新闻数据集来自 [搜狗全网新闻数据 SogouCA 2012版本(1.43GB)](http://www.sogou.com/labs/resource/ca.php) 来自若干新闻站点2012年6月—7月期间国内，国际，体育，社会，娱乐等18个频道的新闻数据，提供URL和正文信息。数据格式如下：
 ```
 <doc>
 <url>页面 URL</url>
